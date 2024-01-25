@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o87onRP2NlUckGPXDz/McI+Uw1z/LWaOASYXkBZ9xWf9V4jSPRYtPLDtP09eeEx6SoABVVtNpwd+5+jWp9hP8w==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\Formulatrix\\Projects\\UnoConsole\\UnoConsole\\UnoConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farid\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\farid\\.nuget\\packages\\spectre.console.cli\\0.48.0\\spectre.console.cli.0.48.0.nupkg.sha512",
+    "C:\\Users\\farid\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
